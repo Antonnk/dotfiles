@@ -14,7 +14,6 @@ brew 'grep'
 brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
 brew 'zlib' # Needed for Memcached
-brew 'iterm2'
 brew 'mackup'
 
 # Development
@@ -39,6 +38,7 @@ cask 'firefox'
 cask 'phpstorm'
 cask 'vlc'
 cask 'clipy'
+cask 'iterm2'
 
 # Quicklook
 cask 'qlcolorcode'
