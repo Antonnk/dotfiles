@@ -23,6 +23,9 @@ sudo scutil --set HostName "IMac Anton"
 sudo scutil --set LocalHostName "IMac Anton"
 sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "IMac Anton"
 
+# Set clock format
+defaults write com.apple.menuextra.clock DateFormat -string 'EEE MMM d  H:mm'
+
 # Disable the sound effects on boot
 sudo nvram SystemAudioVolume=" "
 
