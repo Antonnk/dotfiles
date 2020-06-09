@@ -15,6 +15,7 @@ brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
 brew 'zlib' # Needed for Memcached
 brew 'iterm2'
+brew 'mackup'
 
 # Development
 brew 'php'
