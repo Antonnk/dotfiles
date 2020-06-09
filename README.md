@@ -9,7 +9,6 @@
 5. Clone this repo to `~/.dotfiles`
 6. Install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh#getting-started)
 6. Run `fresh.sh` to start the installation
-7. After mackup is synced with your cloud storage, restore preferences by running `mackup restore`
 8. Restart your computer to finalize the process
 
 Your Mac is now ready to use!
