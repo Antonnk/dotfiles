@@ -38,6 +38,7 @@ cask 'phpstorm'
 cask 'vlc'
 cask 'clipy'
 cask 'iterm2'
+cask 'spotify'
 
 # Quicklook
 cask 'qlcolorcode'
