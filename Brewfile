@@ -39,6 +39,7 @@ cask 'vlc'
 cask 'clipy'
 cask 'iterm2'
 cask 'spotify'
+cask 'postman'
 
 # Quicklook
 cask 'qlcolorcode'
