@@ -28,6 +28,7 @@ brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
+brew 'docker-compose'
 
 # Apps
 cask 'alfred'
