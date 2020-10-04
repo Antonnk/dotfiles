@@ -23,4 +23,4 @@ alias nah="git reset --hard && git clean -df"
 alias gs="git status"
 
 # Docker 
-alias dcr="docker-compose run"
+alias dcr="docker-compose run --rm"
