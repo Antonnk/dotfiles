@@ -21,3 +21,6 @@ alias go="git checkout"
 alias gl="git log --oneline --decorate --color"
 alias nah="git reset --hard && git clean -df"
 alias gs="git status"
+
+# Docker 
+alias dcr="docker-compose run"
