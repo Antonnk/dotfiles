@@ -12,12 +12,9 @@ alias dotfiles="cd $DOTFILES"
 # Laravel
 alias art="php artisan"
 
-# JS
-alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
-alias watch="npm run watch"
-
 # Git
 alias go="git checkout"
 alias gl="git log --oneline --decorate --color"
 alias nah="git reset --hard && git clean -df"
 alias gs="git status"
+alias wip="git add . && git commit -m 'wip'"
