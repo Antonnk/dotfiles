@@ -18,3 +18,7 @@ alias gl="git log --oneline --decorate --color"
 alias nah="git reset --hard && git clean -df"
 alias gs="git status"
 alias wip="git add . && git commit -m 'wip'"
+
+# Docker 
+alias dc="docker-compose"
+alias dcr="docker-compose run --rm"
